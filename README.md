@@ -1,6 +1,5 @@
 # Restaurant-Website
 
-Dhaba
 Dhaba is a restaurant website, comprising solely of Front-end elements. It includes sections such as home, about, menu, chefs, testimonials, and contact us.
 
 Built With
@@ -17,7 +16,7 @@ Any Browser
 Installation
 Clone the repo:
 
-git clone https://github.com/mayank-317/Restaurant_Website.git
+git clone: (https://github.com/Nitin-2000/Restaurant-Website)
 
 Run the index.html file
 
